@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import ChangePasswordForm from "./ChangePasswordForm/ChangePasswordForm";
-import Header from "./Header/Header"
+import ChangePasswordForm from "./components/ChangePasswordForm/ChangePasswordForm";
+import Header from "./components/Header/Header";
 
 class App extends Component {
   render() {
